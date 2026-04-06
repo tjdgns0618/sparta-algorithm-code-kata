@@ -35,3 +35,8 @@
 ## [Problem09](codekata/src/Problem09.java)
 ### 짝수의 합
 - [x] 매개변수로 들어온 정수 n 이하의 모든 짝수를 더한 값 반환
+
+## [Problem10](codekata/src/Problem10.java)
+### 배열의 평균값
+- [x] 매개변수로 들어온 정수 배열의 원소의 평균값 반환 
+
