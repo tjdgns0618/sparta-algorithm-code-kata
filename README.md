@@ -27,7 +27,7 @@
 ### 두 수의 나눗셈
 - [x] 매개변수로 들어온 정수 num1, num2를 나눈 값에 1000을 곱하여 반환
 - [x] 3, 2가 들어올 경우 1500
-- 
+
 ## [Problem08](codekata/src/Problem08.java)
 ### 각도기
 - [x] 매개변수로 들어온 정수 angle의 각도에 따라 숫자 반환
@@ -43,3 +43,13 @@
 ## [Problem11](codekata/src/Problem11.java)
 ### 짝수와 홀수
 - [x] 매개변수로 들어온 정수가 짝수일 경우 "Even", 홀수일 경우 "Odd" 반환 
+
+## [Problem12](codekata/src/Problem12.java)
+### 평균 구하기
+- [x] 매개변수로 들어온 정수 배열의 원소의 평균값 반환
+
+
+
+
+
+
