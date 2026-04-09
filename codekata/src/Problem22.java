@@ -8,11 +8,9 @@ public class Problem22 {
 class Solution22 {
     public long solution(int a, int b) {
         long answer = 0;
-        int min = Math.min(a, b);
-        int max = Math.max(a, b);
-        for(long i = min; i <= max; i++){
-            answer += i;
-        }
-        return answer;
+        long min = Math.min(a, b);
+        long max = Math.max(a, b);
+        // 등차수열의 합 공식
+        return (max - min + 1) * (max + min) / 2;
     }
 }
