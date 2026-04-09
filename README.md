@@ -93,4 +93,7 @@
 - [x] 입력된 num이 1이라면 0 반환
 - [x] 작업 반복 횟수가 500번을 넘어가면 -1 반환
 
+## [Problem24](codekata/src/Problem24.java)
+### 서울에서 김서방 찾기
+- [x] String형 배열 seoul의 element중 "Kim"의 위치 x를 찾아 "김서방은 x에 있다"는 String을 반환
 
