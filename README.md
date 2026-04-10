@@ -107,3 +107,7 @@
 - [x] 절댓값을 차례대로 담은 정수 배열 absolutes와 이 정수들의 부호를 차례대로 담은 boolean 배열 signs가 주어진다.
 - [x] 실제 정수들의 합을 구하여 반환
 
+## [Problem27](codekata/src/Problem27.java)
+### 핸드폰 번호 가리기
+- [x] 문자열 phone_number를 뒷자리 4자리를 제외한 나머지 숫자를 전부 * 로 가린 문자열로 반환
+
