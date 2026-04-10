@@ -97,3 +97,9 @@
 ### 서울에서 김서방 찾기
 - [x] String형 배열 seoul의 element중 "Kim"의 위치 x를 찾아 "김서방은 x에 있다"는 String을 반환
 
+## [Problem24](codekata/src/Problem24.java)
+### 나누어 떨어지는 숫자 배열
+- [x] array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열 반환
+- [x] divisor로 나누어 떨어지는 element가 하나도 없다면 배열에 -1을 담아 반환
+
+
